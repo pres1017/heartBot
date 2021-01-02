@@ -171,7 +171,7 @@ async def on_message(message):
 
 # giverID, recieverID, messageID
 
-client.run('Nzg3NzU1ODIyNzMzNDU5NTA5.X9Zkxw.7mimYBPm1hSGp_4_zvTQlzUUT4M')
+client.run("Bot Key Goes Here")
 
 #allowedRole = message.guild.roles.find("name", "rolename")
 #if (message.member.roles.has(allowedRole.id)
